@@ -70,11 +70,11 @@ Cette partie du TP est découpée en 4 grandes parties avec pour chacune des par
 
 ##### Est-ce qu’il est possible d’identifier des peptides sans base de données?
 ```
-
+oui
 ```
 ##### Combien de protéines sont identifiées dans le protéome bactérien?
 ```
-
+4,391
 ```
 ##### Comment la liste des séquences des protéines est-elle établie ? Est-elle complète? 
 ```
